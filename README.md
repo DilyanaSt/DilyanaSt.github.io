@@ -9,6 +9,7 @@ This is my personal website created for my Source Control with Git homework.
 - image of AUBG
 - short about e information
 - links to my GitHub and Linkedin
+- projects.html - page for projects
 
 ## How it works
 The website is deployed using GitHub Pages. Every change is committed and pushed using Git.
